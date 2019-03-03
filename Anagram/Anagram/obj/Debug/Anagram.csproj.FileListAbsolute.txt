@@ -1,0 +1,14 @@
+B:\C Sharp Projects\Anagram\Anagram\bin\Debug\Anagram.exe.config
+B:\C Sharp Projects\Anagram\Anagram\bin\Debug\Anagram.exe
+B:\C Sharp Projects\Anagram\Anagram\bin\Debug\Anagram.pdb
+B:\C Sharp Projects\Anagram\Anagram\obj\Debug\Anagram.csprojResolveAssemblyReference.cache
+B:\C Sharp Projects\Anagram\Anagram\obj\Debug\MainWindow.g.cs
+B:\C Sharp Projects\Anagram\Anagram\obj\Debug\App.g.cs
+B:\C Sharp Projects\Anagram\Anagram\obj\Debug\Anagram_MarkupCompile.cache
+B:\C Sharp Projects\Anagram\Anagram\obj\Debug\Anagram_MarkupCompile.lref
+B:\C Sharp Projects\Anagram\Anagram\obj\Debug\MainWindow.baml
+B:\C Sharp Projects\Anagram\Anagram\obj\Debug\Anagram.g.resources
+B:\C Sharp Projects\Anagram\Anagram\obj\Debug\Anagram.Properties.Resources.resources
+B:\C Sharp Projects\Anagram\Anagram\obj\Debug\Anagram.csproj.GenerateResource.Cache
+B:\C Sharp Projects\Anagram\Anagram\obj\Debug\Anagram.exe
+B:\C Sharp Projects\Anagram\Anagram\obj\Debug\Anagram.pdb
